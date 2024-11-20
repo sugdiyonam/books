@@ -1,0 +1,20 @@
+.card-img{
+ width: 100%;
+ height: 100%;
+ background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg7yIM31ISLvckx9BdBTy8rboS-1AxWNuu6w&s);
+ background-size: cover;
+ background-position: center;
+}
+.cards h2{
+  display: flex;
+  justify-content: center;
+  color: blue;
+}
+.navbar-img{
+  display: flex;
+  justify-content: center
+}
+.navbar-img2{
+  display: flex;
+  justify-content: center;
+}
